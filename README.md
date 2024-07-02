@@ -38,7 +38,7 @@ Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS
 - 📫 How to reach me: email: mohammadsalim017427@gmail.com LinkedIn:https://www.linkedin.com/in/mohammad-salim-bb09ba264/ 
 - ⚡ Fun fact: To solve complex problems through coding and learning new technologies. 
 
-<br/>
+
 ## : Professional Profiles
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad-salim-23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://www.geeksforgeeks.org/user/mohammadsaz4ys/) 
 
