@@ -1,5 +1,5 @@
 ### Hi , I'm Salim  👋
-###welcome to my profile
+
 #### I am a passionate web developer who explores new technologies and innovative ideas.
 ![I am a passionate web developer who explores new technologies and innovative ideas.](https://img.freepik.com/free-photo/tourists-go-up-hill-sunrise_1150-19692.jpg?t=st=1719910193~exp=1719913793~hmac=00179799511e07df7b1b0a268c80856a71a0f9f28a452ffe7dcef6c55cce3de5&w=900)
 
