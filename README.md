@@ -15,9 +15,10 @@ I'm a student, aspiring [developer]([https://github.com/mohammad-salim]), part-t
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">]((https://www.linkedin.com/in/mohammad-salim-bb09ba264/)/)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)
 
 <br />
+
 
 ## :computer: Technologies that I know
 
