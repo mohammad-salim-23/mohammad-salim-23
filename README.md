@@ -37,3 +37,6 @@ Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mohammad-salim-23)  
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-salim-23&layout=pie)](https://github.com/mohammad-salim-23/github-readme-stats)
