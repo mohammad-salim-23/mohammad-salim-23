@@ -5,7 +5,7 @@
 
 I'm a student, aspiring [developer]([https://github.com/mohammad-salim]), part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting 
 
-Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS
+Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS/NextJS
 ## computer:💻  Technologies that I know
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
