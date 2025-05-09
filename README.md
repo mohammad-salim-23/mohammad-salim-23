@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Cover Image" width="100%" />
+<div style="width: 100%; height: 250px; overflow: hidden;">
+  <img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Cover Image" style="width: 100%; object-fit: cover;" />
+</div>
 
 ### Hi , I'm Mohammad Salim 👋
 
