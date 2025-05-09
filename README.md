@@ -1,12 +1,18 @@
-### Hi , I'm Mohammad Salim  👋
+<img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Cover Image" width="100%" />
+
+### Hi , I'm Mohammad Salim 👋
 
 #### 🚀 I am a dedicated and curious developer who aims to make meaningful contributions to the tech world by building real-world solutions. I’m passionate about learning, exploring, and helping others through technology.
-![I am a passionate web developer who explores new technologies and innovative ideas.](https://img.freepik.com/free-photo/tourists-go-up-hill-sunrise_1150-19692.jpg?t=st=1719910193~exp=1719913793~hmac=00179799511e07df7b1b0a268c80856a71a0f9f28a452ffe7dcef6c55cce3de5&w=900)
 
-I'm a student, aspiring [developer]([https://github.com/mohammad-salim]), part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting 
+I'm a student, aspiring [developer](https://github.com/mohammad-salim), part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting!
 
-Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS/NextJS
-## computer:💻  Technologies that I know
+---
+
+### 💻 Skills
+
+C / C++ / Java / DSA / HTML / CSS / JS / ReactJS / Firebase / MongoDB / NodeJS / ExpressJS / NextJS
+
+### 🚀 Technologies I Know
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,33 +37,36 @@ Skills: C/C++/Java/DSA/ HTML / CSS/JS/ReactJS/firebase/ MongoDB/NodeJS/ExpressJS
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-- 🔭 I’m currently working on personal projects to enhance my skills 
-<br/>
-- 🌱 I’m currently learning SQL and Data Structures & Algorithms. 
-<br/>
-- 👯 I’m looking to collaborate on web development projects 
-<br/>
-- 💬 Ask me about Web Development and DSA 
-<br/>
-- 📫 How to reach me: email: mohammadsalim017427@gmail.com LinkedIn:https://www.linkedin.com/in/mohammad-salim-bb09ba264/ 
-- ⚡ Fun fact: To solve complex problems through coding and learning new technologies. 
+---
 
+### 🔭 Current Focus
+- Working on personal projects to enhance my skills  
+- Learning SQL and Data Structures & Algorithms  
+- Open to collaboration on web development projects  
+- Ask me about Web Development and DSA  
+- 📫 Email: mohammadsalim017427@gmail.com  
+- 🔗 LinkedIn: [mohammad-salim-bb09ba264](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)  
+- ⚡ Fun Fact: I love solving real-world problems through code  
 
-##  Professional Profiles
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad-salim-23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://www.geeksforgeeks.org/user/mohammadsaz4ys/) 
+---
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🌐 Professional Profiles
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-salim-23)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad-salim-23)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)
+&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://www.geeksforgeeks.org/user/mohammadsaz4ys/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-salim-23)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-salim-23&show_icons=true&count_private=true)  
+---
 
+## 📊 GitHub Stats
 
+[![Top Langs (Pie)](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-salim-23&layout=pie)](https://github.com/mohammad-salim-23/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mohammad-salim-23)  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-salim-23&layout=pie)](https://github.com/mohammad-salim-23/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammad-salim-23&theme=default)](https://git.io/streak-stats)
