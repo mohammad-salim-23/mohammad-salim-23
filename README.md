@@ -7,7 +7,7 @@
 I'm a student, aspiring [developer](https://github.com/mohammad-salim), part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting!
 
 <div style="width: 100%; height: 150px; overflow: hidden;">
-  <img src="https://i.pinimg.com/736x/f9/9f/9d/f99f9d7c93554c6bd79cdd472a377a6e.jpg" alt="Cover Image" style="width: 100%; object-fit: cover;" />
+  <img src="https://i.ibb.co.com/22P69mc/professional-Cover.png" alt="Cover Image" style="width: 100%; object-fit: cover;" />
 </div>
 
 ---
