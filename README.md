@@ -4,7 +4,7 @@
 
 #### 🚀 I am a dedicated and curious developer who aims to make meaningful contributions to the tech world by building real-world solutions. I’m passionate about learning, exploring, and helping others through technology.
 
-I'm a student, aspiring [developer](https://github.com/mohammad-salim), part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting!
+I'm a student, aspiring developer, part-time coder, and full-time technology explorer. I am currently learning Next.JS and DSA (Data Structures and Algorithms). Thanks for visiting!
 
 <div style="width: 100%; height: 150px; overflow: hidden;">
   <img src="https://i.ibb.co.com/22P69mc/professional-Cover.png" alt="Cover Image" style="width: 100%; object-fit: cover;" />
