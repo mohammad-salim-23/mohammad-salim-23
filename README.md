@@ -48,8 +48,8 @@ C / C++ / Java / DSA / HTML / CSS / JS / ReactJS / Firebase / MongoDB / NodeJS /
 - Learning SQL and Data Structures & Algorithms  
 - Open to collaboration on web development projects  
 - Ask me about Web Development and DSA  
-- 📫 Email: mohammadsalim017427@gmail.com  
-- 🔗 LinkedIn: [mohammad-salim-bb09ba264](https://www.linkedin.com/in/mohammad-salim-bb09ba264/)  
+- 📫 Email:mohammad.salim.tech@gmail.com  
+- 🔗 LinkedIn: [mohammad-salim-bb09ba264](https://www.linkedin.com/in/mohammad-salim25)  
 - ⚡ Fun Fact: I love solving real-world problems through code  
 
 ---
